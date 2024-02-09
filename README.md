@@ -1,5 +1,5 @@
 # FFlagGen
-A simple roblox Fflag generator made on python!
+A simple roblox FFlag generator made on python!
 
 ## Getting Started
 
