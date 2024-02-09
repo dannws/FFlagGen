@@ -15,8 +15,7 @@ A simple roblox Fflag generator made on python!
 ### Executing program
 
 * to run the program,
-* you must first edit the config.json file and put your webhook url there,
-* then you just open the main.py file and you should be good to go!
+* open the FlagGen.py file and you should be good to go!
 
 
 
@@ -31,7 +30,6 @@ Discord: dannw
 
 
 * Dan  (coder)
-* Kit (provided channel list)
 * Popbob (emotional support)
 
 
@@ -40,10 +38,5 @@ Discord: dannw
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
-## Acknowledgments
-
-
-* [RobloxChannelPrivacyTracker](https://github.com/Mast3rGamers/RobloxChannelPrivacyTracker)
-> Saw this on github, and decided to remake it on python, added auto update, embeds and more!
 
 
